@@ -29,7 +29,7 @@ Ensure you have the following installed:
 1.  **Clone the repository**
 
     ```sh
-    git clone https://github.com/yourusername/ComposeDockWeb.git
+    git clone git@github.com:Carrieukie/ComposeWebDocker.git
     cd ComposeDockWeb
     
     ```
